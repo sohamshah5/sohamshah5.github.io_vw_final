@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "Preferred Language",
+      "desc": "What is your preferred language?",
+      "operator": "=",
+      "defaultVal": "English",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "AND",
+      "caseSearch": true,
+      "layers": [
+        {
+          "layer": "Employment_Services_Service_Delivery_Sites_FY1617_4089",
+          "field": "Service__2",
+          "dataType": "esriFieldTypeString",
+          "useDomain": true
+        }
+      ]
+    }
+  ],
+  "persistOnClose": false,
+  "simpleMode": true,
+  "optionsMode": true,
+  "webmapAppendMode": true,
+  "slAppendChoice": "AND",
+  "headerText": "What is your preferred language?",
+  "hideHeaderSelection": true
+}

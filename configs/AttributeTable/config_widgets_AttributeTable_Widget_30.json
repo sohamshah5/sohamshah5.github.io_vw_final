@@ -1,0 +1,185 @@
+{
+  "layerInfos": [
+    {
+      "name": "Employment Service Locations",
+      "id": "Employment_Services_Service_Delivery_Sites_FY1617_4089",
+      "layer": {
+        "url": "https://services7.arcgis.com/AHJOWTX3sFcnmA9U/arcgis/rest/services/Employment_Services_Service_Delivery_Sites_FY1617/FeatureServer/0",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": false
+          },
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": false,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "Program",
+            "alias": "Program",
+            "show": false
+          },
+          {
+            "name": "Service_De",
+            "alias": "Service_De",
+            "show": true
+          },
+          {
+            "name": "SDS_Refere",
+            "alias": "SDS_Refere",
+            "show": true
+          },
+          {
+            "name": "Service_Pr",
+            "alias": "Service_Pr",
+            "show": false
+          },
+          {
+            "name": "Service__1",
+            "alias": "Service__1",
+            "show": false
+          },
+          {
+            "name": "Service__2",
+            "alias": "Service__2",
+            "show": true
+          },
+          {
+            "name": "SDS_Busine",
+            "alias": "SDS_Busine",
+            "show": false
+          },
+          {
+            "name": "SDS_Busi_1",
+            "alias": "SDS_Busi_1",
+            "show": true
+          },
+          {
+            "name": "SDS_Busi_2",
+            "alias": "SDS_Busi_2",
+            "show": false
+          },
+          {
+            "name": "SDS_Busi_3",
+            "alias": "SDS_Busi_3",
+            "show": true
+          },
+          {
+            "name": "SDS_Busi_4",
+            "alias": "SDS_Busi_4",
+            "show": false
+          },
+          {
+            "name": "SDS_Busi_5",
+            "alias": "SDS_Busi_5",
+            "show": true
+          },
+          {
+            "name": "Region",
+            "alias": "Region",
+            "show": true
+          },
+          {
+            "name": "SP_Busines",
+            "alias": "SP_Busines",
+            "show": false
+          },
+          {
+            "name": "SP_Busin_1",
+            "alias": "SP_Busin_1",
+            "show": false
+          },
+          {
+            "name": "SP_Busin_2",
+            "alias": "SP_Busin_2",
+            "show": false
+          },
+          {
+            "name": "SP_Busin_3",
+            "alias": "SP_Busin_3",
+            "show": false
+          },
+          {
+            "name": "SP_Busin_4",
+            "alias": "SP_Busin_4",
+            "show": false
+          },
+          {
+            "name": "SP_Busin_5",
+            "alias": "SP_Busin_5",
+            "show": false
+          },
+          {
+            "name": "CMSMNAME",
+            "alias": "CMSMNAME",
+            "show": true
+          },
+          {
+            "name": "LBOARD",
+            "alias": "LBOARD",
+            "show": true
+          },
+          {
+            "name": "SDS_Longit",
+            "alias": "SDS_Longit",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "SDS_Latitu",
+            "alias": "SDS_Latitu",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "SDS_Long_1",
+            "alias": "SDS_Long_1",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "SDS_Lati_1",
+            "alias": "SDS_Lati_1",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}
